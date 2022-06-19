@@ -1,4 +1,4 @@
-_G.FastAttack = true,
+_G.FastAttack = true
 
 coroutine.wrap(function()
 
